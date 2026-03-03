@@ -131,7 +131,7 @@
           "artifact": {
             "size": 44210201,
             "MD5": "77EC277E4A9DDB954B7BE54B63DEC514",
-            "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/KYfgWqQU/Axiom-5.2.1-for-MC1.20.1.jar"
+            "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar"
            }
         },
         {
@@ -143,6 +143,16 @@
             "MD5": "D660DB1FBCA42043A0EFAF49C05CD72A",
             "url": "https://cdn.modrinth.com/data/pTJ1ZloG/versions/kaJsz9Tr/prefab-fabric-6.0.3.jar"
            }
+        },
+        {
+          "id": "malilib:malilib:1.21.1-0.11.0@jar",
+          "name": "MaLiLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1234567,
+            "MD5": "1234567890ABCDEF1234567890ABCDEF12",
+            "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/C99LEy6r/malilib-fabric-1.21-0.21.10.jar"
+          }
         },
         {
           "id": "litematica:litematica:1.21.1-0.19.60@jar",
