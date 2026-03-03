@@ -119,8 +119,8 @@
           "name": "Cloth Config",
           "type": "FabricMod",
           "artifact": {
-            "size": 3456789,
-            "MD5": "1234567890ABCDEF1234567890ABCDEF12",
+            "size": 1157166,
+            "MD5": "A2C091B027AD6BA8E54B07020FD45884",
             "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
           }
         },
