@@ -155,13 +155,13 @@
           }
         },
         {
-          "id": "axiom:axiom:1.21.1-5.2.1@jar",
+          "id": "axiom:axiom:1.21.1-5.3.0@jar",
           "name": "Axiom",
           "type": "FabricMod",
           "artifact": {
-            "size": 44210201,
-            "MD5": "77EC277E4A9DDB954B7BE54B63DEC514",
-            "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jdVbAKkp/Axiom-5.2.1-for-MC1.21.1.jar"
+            "size": 44232996,
+            "MD5": "74BC88E7859C8ECCCC722683663D0ECD",
+            "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/jTdCyf2H/Axiom-5.3.0-for-MC1.21.1.jar"
            }
         },
         {
