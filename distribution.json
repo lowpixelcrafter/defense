@@ -105,6 +105,16 @@
           ]
         },
         {
+          "id": "iris:iris:1.21.1-1.3.0@jar",
+          "name": "Iris Shaders",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12345678,
+            "MD5": "1234567890ABCDEF1234567890ABCDEF12",
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
+          }
+        },
+        {
           "id": "fabric-api:fabric-api:0.89.0+1.21.1",
           "name": "Fabric API",
           "type": "FabricMod",
