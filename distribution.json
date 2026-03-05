@@ -127,7 +127,7 @@
           ]
         },
         {
-          "id": "fabric-api:fabric-api:0.89.0+1.21.1",
+          "id": "fabric-api:fabric-api:0.89.0+1.21.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
@@ -137,7 +137,7 @@
           }
         },
         {
-          "id": "cloth-config:cloth-config:15.0.104+1.21.1",
+          "id": "cloth-config:cloth-config:15.0.104+1.21.1@jar",
           "name": "Cloth Config",
           "type": "FabricMod",
           "artifact": {
