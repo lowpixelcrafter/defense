@@ -175,16 +175,6 @@
           }
         },
         {
-          "id": "litematica:litematica:1.21.1-0.19.60@jar",
-          "name": "Litematica",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1578454,
-            "MD5": "72A99316C2366D53D820076109604126",
-            "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/aEvrmYqW/litematica-fabric-1.21-0.19.60.jar"
-          }
-        },
-        {
           "id": "bsl:bsl:1.21.1-10.1.1.zip",
           "name": "BSL Shaders",
           "type": "ShaderPack",
