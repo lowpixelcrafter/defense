@@ -109,8 +109,8 @@
           "name": "Iris Shaders",
           "type": "FabricMod",
           "artifact": {
-            "size": 12345678,
-            "MD5": "1234567890ABCDEF1234567890ABCDEF12",
+            "size": 2690177,
+            "MD5": "1179FE09B9BA970E84ED59259ADFE65A",
             "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
           }
         },
