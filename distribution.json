@@ -115,7 +115,7 @@
           }
         },
         {
-          "id": "sodium:Sodium:0.6.13",
+          "id": "sodium:Sodium:0.6.13@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
@@ -135,7 +135,7 @@
           }
         },
         {
-          "id": "cloth-config:cloth-config:15.0.104+1.21.1@jar",
+          "id": "cloth-config:cloth-config:15.0.140+1.21.1@jar",
           "name": "Cloth Config",
           "type": "FabricMod",
           "artifact": {
@@ -165,7 +165,7 @@
            }
         },
         {
-          "id": "malilib:malilib:1.21.1-0.11.0@jar",
+          "id": "malilib:malilib:1.21.1-0.21.10@jar",
           "name": "MaLiLib",
           "type": "FabricMod",
           "artifact": {
