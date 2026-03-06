@@ -191,7 +191,8 @@
           "artifact": {
             "size": 1125052,
             "MD5": "67B0A2D855E91F3578AF7A4336E537F0",
-            "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/NDEQ77pU/BSL_v10.1.1.zip"
+            "url": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/NDEQ77pU/BSL_v10.1.1.zip",
+            "path": "shaderpacks/BSL_v10.1.1.zip"
           }
         }
       ]
